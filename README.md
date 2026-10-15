@@ -3,7 +3,7 @@
 
 <!-- Animated Hero Banner -->
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,50:0F172A,100:0891B2&text=Puneet%20Singh&fontSize=65&fontColor=67E8F9&animation=fadeIn&stroke=22D3EE&strokeWidth=1&desc=CODE%20%7C%20BUILD%20%7C%20INNOVATE&descSize=18&descAlignY=68&fontAlignY=45"
+src="https://capsule-render.vercel.app/api?type=venom&height=400&color=0:020617,50:0F172A,100:0891B2&text=Puneet%20Singh&fontSize=65&fontColor=67E8F9&animation=fadeIn&stroke=22D3EE&strokeWidth=1&desc=CODE%20%7C%20BUILD%20%7C%20INNOVATE&descSize=18&descAlignY=68&fontAlignY=45"
 alt="Puneet Singh Animated Banner"/>
 
 <!-- Animated Typing Text -->
@@ -14,7 +14,7 @@ alt="Puneet Singh Animated Banner"/>
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212750436-7b6c4e0c-2f6b-4a8b-9b1e-2d5a3f4e8c6d.gif" width="400" alt="Animated divider"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750436-7b6c4e0c-2f6b-4a8b-9b1e-2d5a3f4e8c6d.gif"/>
 
 <br/>
 
