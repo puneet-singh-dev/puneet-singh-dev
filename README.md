@@ -14,7 +14,7 @@ alt="Puneet Singh Animated Banner"/>
 <br/>
 
 <!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212750436-7b6c4e0c-2f6b-4a8b-9b1e-2d5a3f4e8c6d.gif"/>
+<img width="350px" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
 
 <br/>
 
