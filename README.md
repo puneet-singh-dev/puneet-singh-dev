@@ -13,10 +13,8 @@ alt="Puneet Singh Animated Banner"/>
 
 <br/>
 
-<!-- Animated Divider -->
-<img width="200px" height="150px" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"/>
 
-<br/>
+
 
 <!-- Profile Badges -->
 <img src="https://komarev.com/ghpvc/?username=puneet-singh-dev&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
